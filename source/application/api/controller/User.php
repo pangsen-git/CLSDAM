@@ -27,6 +27,7 @@ class User extends Controller
                 "LoginStatus" => "1"
             );
         }
+        $aa = '123';
 
     }
     
