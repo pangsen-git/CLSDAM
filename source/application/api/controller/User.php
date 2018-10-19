@@ -27,6 +27,7 @@ class User extends Controller
                 "LoginStatus" => "1"
             );
         }
+        $wcx = 'sz';
         // $userid = Request::instance()->param('userid');
         // $pwd = Request::instance()->param('password');
         // $userid = $post["userid"];
